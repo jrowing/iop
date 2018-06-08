@@ -22,7 +22,7 @@ title: testing
 
 \[ e=mc^{2}\]
 
-$$4x$$
+$$4x \frac{\lambda}{4 \pi}$$
 </section>
 
 <section>
