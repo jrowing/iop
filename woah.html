@@ -53,6 +53,14 @@
 				center: true,
 
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				math: {
+					// mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+					config: 'TeX-AMS_HTML-full'
+				},
+				dependencies: [
+					{ src: '../../lib/js/classList.js' },
+					{ src: '../../plugin/math/math.js', async: true }
+				]
 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
