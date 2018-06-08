@@ -1,0 +1,18 @@
+title: Physics A-level
+description: Documentation and info for A-level Physics at EMS
+url: "https://jrowing.com/classes" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed

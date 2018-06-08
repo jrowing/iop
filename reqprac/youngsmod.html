@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <title>Physics at EMS</title>
+
+    <meta charset="utf-8">
+
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+      });
+    </script>
+    <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+    <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.js"></script>
+
+    <style>
+      body {font-size: 200%; }
+      div.container { margin-top: 20px; margin-bottom: 100px; }
+      #main  h1 { margin-top: 50px; padding-top: 20px; border-top: 1px solid #cccccc; }
+      #main  h2 { margin-top: 40px; }
+      @media screen{ #main h1 { padding-top: 100px; } }
+      div.sage { padding-top: 20px; padding-bottom: 20px; font-size: 75%; }
+
+      nav[data-toggle='toc'] {
+      margin-top: 30px;
+      margin-left: 30px;
+      }
+    </style>
+
+  </head>
+  <body data-spy="scroll" data-target="#toc">
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <h1 data-toc-skip>Young Modulus in a Wire</h1>
+      by Joe Rowing<br>
+      last updated 22/05/2018
+    </div>
+  </div>
+</nav>
+    <div class="container" id="main">
+      <div class="row" style="margin-top: 20px;">
+
+        <div class="col-md-9">
+         <h1> Theory:</h1>
+		 Young's modulus, also known as the elastic modulus, is a measure of the stiffness of a solid material. It is a mechanical property of linear elastic solid materials, and will be more or less dependent on temperature, depending on the material being considered.
+
+		 <h2>Activity</h2>
+
+    The Young modulus is calculated:
+		 \[ \text{Young modulus }E = \frac{\text{Stress}}{\text{Strain}} = \frac{F/A}{x/l} \]
+     Where:<br>
+     \( F = \text{applied load} \)<br>
+     \( A = \text{cross sectional area of wire} \)<br>
+     \( x = \text{extension} \)<br>
+     \( l = \text{origional length} \)<br>
+
+     If a graph of applied load, \( F \) (y-axis) is drawn against extension, \( x \) (x-axis) the gradient is \( F/x \) and so:
+
+     \[ E = \text{gradient} \times \frac{l}{A}\]
+
+     The original length \( l \) can be measured and the area of the wire found using \( A = \pi r^{2} \) hence \( E \) can be determined.
+
+
+
+
+
+<h1>Experimental Method:</h1>
+
+<img src="/classes/reqprac/Images/youngsmod.JPG">
+<br>
+
+Hang two identical wires from a beam and attach a scale to the first wire and a small weight to keep it straight. Also put a small weight on the second wire to straighten it and a Vernier scale linking with the scale on the comparison wire. Measure the original length, \( l \), of the test wire and its diameter at various points along its length. Use this to calculate the mean cross-sectional area \( A \).
+Then place a load of 5 N on the test wire and find the extension, \( x \). Repeat this in 5 N steps up to at least 50 N. Plot a graph of load (y-axis) against extension (x-axis) and calculate the gradient. Use this to find a value for the Young modulus.
+
+<h1>Extension:</h1>
+
+By comparing the Young modulus to <a href = "https://www.engineeringtoolbox.com/young-modulus-d_417.html">known constants</a> it would be possible to determine the type of metal the wire was made from.
+
+<h1>Further guidance</h1>
+
+Use appropriate analogue apparatus to record a range of measurements (to include length/distance, temperature, pressure, force, angles, volume) and to interpolate between scale markings.
+<ul>
+<li> Use calipers and micrometers for small distances, using digital or vernier scales.</li>
+<li> Use ICT such as computer modelling, or data logger with a variety of sensors to collect data, or use of software to process data.</li>
+</ul>
+<h1>Results</h1>
+Below we have some python code that will plot a graph to show you what your results might look like, you could modify this code to plot your own results.<br>
+ <br>
+<div class="sage">
+<script type="text/x-sage"># some library objects we need
+from numpy import zeros, arange
+from matplotlib import pyplot as plt
+
+data = (0.0, 0.0), (0.00109, 77.2), (0.00217, 154.4), ( 0.00326, 231.7), (0.00437, 308.9), (0.00470, 328.2), (0.00514, 347.5), (0.00589, 366.8), (0.00744, 386.1), (0.00860, 394.4), (0.01026, 402.7), (0.01265, 410.9), (0.01609, 419.2), (0.02102, 427.5), (0.02806, 435.7), (0.03807, 444.0), (0.05222, 452.3), ( 0.07214, 460.5), (0.10000, 468.8)
+
+pl1 = list_plot(data,plotjoined=True,marker='x',axes_labels=['Strain', 'Stress [MPa]'])
+show(pl1)
+      </script>
+     </div>
+
+     <h1>Conclusions</h1>
+Compare your results to databook values.
+        </div>
+
+        <div class="col-md-2">
+          <nav id="toc" data-toggle="toc" data-spy="affix"></nav>
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+</html>

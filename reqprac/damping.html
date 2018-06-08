@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <title>Physics at EMS</title>
+
+    <meta charset="utf-8">
+
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+      });
+    </script>
+    <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+    <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.js"></script>
+
+    <style>
+      body {font-size: 200%; }
+      div.container { margin-top: 20px; margin-bottom: 100px; }
+      #main  h1 { margin-top: 50px; padding-top: 20px; border-top: 1px solid #cccccc; }
+      #main  h2 { margin-top: 40px; }
+      @media screen{ #main h1 { padding-top: 100px; } }
+      div.sage { padding-top: 20px; padding-bottom: 20px; font-size: 75%; }
+
+      nav[data-toggle='toc'] {
+      margin-top: 30px;
+      margin-left: 30px;
+      }
+    </style>
+
+  </head>
+  <body data-spy="scroll" data-target="#toc">
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <h1 data-toc-skip>Investigation of the damping of a spring</h1>
+      by Joe Rowing<br>
+      last updated 1/06/2018
+    </div>
+  </div>
+</nav>
+    <div class="container" id="main">
+      <div class="row" style="margin-top: 20px;">
+
+        <div class="col-md-9">
+         <h1> Theory:</h1>
+		 
+		 The relationship between the amplitude of oscillation, A, and time, t, can be expressed by:
+$$A = A_{0} e^{- \lambda t}$$
+		 
+where:
+<ul>
+<li> $A_{0}$ is the initial amplitude and </li> 
+<li> $\lambda $ is an unknown constant.</li> 
+</ul>
+
+If we take the log of both sides we get:
+$$ \ln A = - \lambda t + \ln A_{0}$$ 
+
+This can be compared with the equation for a straight
+line y = mx + c and so a graph of ln A against t will give a straight line of gradient λ and intercept ln A0.  
+		 
+
+	<h1> Apparatus:</h1>
+<ul>	
+<li>Stopwatch (± 0.01s)</li>
+<li>G-clamp to secure the stand</li>
+<li>500g mass</li>
+<li>Two linked springs</li>
+<li>Stand, clamp and boss – the height of the stand should enable the length to be adjusted to at least 1.0 m</li>
+<li>Pointer to act as a <a href="https://en.wikipedia.org/wiki/Fiducial_marker#Physics">fiducial marker</a></li>
+<li>Meter rule (± 0.001m)</li>
+</ul>
+   
+
+<h1>Experimental Method:</h1>
+
+The apparatus should be set up as shown. <br>
+<img src="/classes/reqprac/Images/springdamping.PNG">
+<br>
+Place the 500 g mass on the spring system and attach a pointer so its
+position can be easily read on the metre rule. Displace the mass by a further 2.5 cm. Let go of the mass and simultaneously start the stopwatch.<br>
+Let the mass oscillate continuously and measure the new amplitude of the
+system every minute for the next eight minutes. Repeat this two more times
+and find the mean amplitude at each time. Determine $ ln A $ for each time $t$
+and plot a graph to enable you to find $\lambda$
+
+
+
+<h2> Extension: </h2>
+A series of cards of different diameters could be included to investigate the effect of different surface area on
+damping (the cards could be placed on top of the different masses).<br>
+
+Note that displacement sensors could be used to obtain data digitally <br>
+
+<br>
+
+
+<h1>Further guidance</h1>
+
+Use appropriate analogue apparatus to record a range of measurements (to include length/distance, temperature, pressure, force, angles, volume) and to interpolate between scale markings.
+<ul>
+<li> Use calipers and micrometers for small distances, using digital or vernier scales.</li>
+<li> Use ICT such as computer modelling, or data logger with a variety of sensors to collect data, or use of software to process data.</li>
+</ul>
+<h1>Results</h1>
+Make sure you record your method and results clearly.
+
+
+<h1>Conclusions</h1>
+Compare your results to databook values, remember to state your uncertanties and quote your sources of information.
+        </div>
+
+        <div class="col-md-2">
+          <nav id="toc" data-toggle="toc" data-spy="affix"></nav>
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+</html>
