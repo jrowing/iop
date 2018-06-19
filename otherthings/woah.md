@@ -5,6 +5,7 @@ title: Woah
 <section data-markdown data-notes="^Note:">
 # Woah!
 </section>
+
 <section>
 <section data-markdown data-notes="^Note:">
 ![](https://filedb.experts-exchange.com/incoming/2015/11_w46/1008861/macbook-air-balloon.jpg)
@@ -63,6 +64,8 @@ https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
 
   </section>
  </section>
+ 
+ 
  <section>
 <section data-markdown data-notes="^Note:">
 # Rattlebacks
@@ -108,16 +111,19 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 
 </section>
 </section>
+
+
 <section>
 <section data-markdown data-notes="^Note:">
 # Slinky
-  </section>
+</section>
 <section data-markdown data-notes="^Note:">
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1499164974938_giphy.gif)
 
 </section>
 </section>
+
 <section>
 <section data-markdown data-notes="^Note:">
 # Chain fountain
@@ -156,9 +162,9 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 
 </section>
 </section>
+
 <section>
 <section data-markdown data-notes="^Note:">
-  
   # Canadian currency
   </section>
 <section data-markdown data-notes="^Note:">
@@ -166,6 +172,7 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 
 </section>
 </section>
+<section>
 <section data-markdown data-notes="^Note:">
 
 # Water bottle flip
