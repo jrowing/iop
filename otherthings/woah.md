@@ -46,14 +46,12 @@ https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
 
 ## Tippy tops
   </section>
-[Research paper](http://www2.ph.ed.ac.uk/~amorozov/files/TEACHING/tippetop.pdf)
   <section data-markdown data-notes="^Note:">
-  ## Tippy tops too
-
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Pauli_wolfgang_c4.jpg)
-
+[Research paper](http://www2.ph.ed.ac.uk/~amorozov/files/TEACHING/tippetop.pdf)
   </section>
-
+  <section data-markdown data-notes="^Note:">
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Pauli_wolfgang_c4.jpg)
+  </section>
   <section data-markdown data-notes="^Note:">
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1497297103137_image.png)
@@ -113,15 +111,18 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 <section>
 <section data-markdown data-notes="^Note:">
 # Slinky
-
+  </section>
+<section data-markdown data-notes="^Note:">
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_4235D22A09481E808DFC52DC955CFC94A15841728A71E62850796478A6F642C2_1499164974938_giphy.gif)
 
 </section>
-
+</section>
+<section>
 <section data-markdown data-notes="^Note:">
 # Chain fountain
-
+<\section>
+<section data-markdown data-notes="^Note:">
 
 ![](http://d1czgh453hg3kg.cloudfront.net/content/royprsa/470/2163/20130689/F1.large.jpg&size=auto 90%)
 
@@ -154,15 +155,17 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 ![](https://inspiringscience.files.wordpress.com/2013/04/fallingrod.png)
 
 </section>
-
+</section>
+<section>
 <section data-markdown data-notes="^Note:">
   
   # Canadian currency
-
+  </section>
+<section data-markdown data-notes="^Note:">
 ![](https://lh3.googleusercontent.com/LIukbe9ZRzlz8lg5Qvk3lRstGkwVznGkmvhOTlXbfhIUYebrYp1WvBeoCpj_crd3KG2dBDgFusLFJaGHWFE8xwMZY9Ff83Lo0qXq_cQQyH1Wn7giBjJqIWGyd8i82v2QIqximd0Qmi9yKf35BnVzNybFsphWXX3iwMNoVrsbD7qXeaNIGmDu8L_oKgYnPlNB9Oh3Sab21HfBewEK7wotPj_HzZwuMgi2asmX7VPiAKuFbXNCP95RQuzvMXwTiPaxZh1J22D8UA4IlPUERJ7m9L_zbWULU_yacgJM5eo5hfM0RwjUJLi-i1kWNk5b3XwXN-kdtSj9iSfypW32cq6mmf5z7UmmtbIpHyRCoAkdzCYyKtBwxFOXgMNk6kcGtddbWIB0hs0aBBTH5TC6Sl1wHCUHeTztU6ywCe4P9SjHJCVTz4p1TGtSio6-NXB3RiV6t9SK557sTalUDZAvNlClIRdwwRmrfqjyvMJ9zdUI2BjkclsFFWqxFFlp721XZonrYrCO4uxlyH7qHT9MalO5WE08qPIZYiQ7uTuz2rOXcGSvPDXrQOCIgbKjpoAmaLYKdwQRUcJsSBwpgwoIfAsq6a9P9SN0_i26fo5-68OrSp-og8fjJORZ=w429-h761-no)
 
 </section>
-
+</section>
 <section data-markdown data-notes="^Note:">
 
 # Water bottle flip
@@ -180,7 +183,8 @@ https://www.youtube.com/watch?v=9XOcUAY9qvw&
 
 
 </section>
-
+</section>
+<section>
 <section data-markdown data-notes="^Note:">
 # Thunder Can
 
@@ -190,7 +194,8 @@ https://www.youtube.com/watch?v=9XOcUAY9qvw&
 https://www.youtube.com/watch?v=2di7l-6OKNE&
 
 </section>
-
+</section>
+<section>
 <section data-markdown data-notes="^Note:">
 # Vortex cannon
 
@@ -201,3 +206,4 @@ https://www.youtube.com/watch?v=2di7l-6OKNE&
 <section data-markdown data-notes="^Note:">
 
 ![](https://skullsinthestars.files.wordpress.com/2012/08/vortexring.jpg)
+</section>
