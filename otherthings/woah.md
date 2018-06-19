@@ -4,7 +4,7 @@ title: Woah
 ---
 <section data-markdown data-notes="^Note:">
 # Woah!
-  $$F=ma$$
+  $F= \frac{\Delta m v}{t} $
 </section>
 
 <section>
