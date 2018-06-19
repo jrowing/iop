@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Woah!
-navigation: 1
+navigation: 10
 ---
 # Woah
 
