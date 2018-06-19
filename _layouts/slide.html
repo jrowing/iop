@@ -74,9 +74,9 @@
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
 	      math: {
-      mathjax: 'https://cdn.mathjax.org/mathjax/latest/MathJax.js',
-      config: 'TeX-AMS_SVG'
-    },
+		mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+		config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+	},
         controls: true,
         progress: true,
         history: true,
@@ -93,7 +93,8 @@
           { src: '{{ "/reveal.js/plugin/markdown/markdown.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/reveal.js/plugin/highlight/highlight.js" | prepend: site.github.url }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
           { src: '{{ "/reveal.js/plugin/zoom-js/zoom.js" | prepend: site.github.url }}', async: true },
-          { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true }
+          { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true },
+		  { src: 'plugin/math/math.js', async: true }
         ]
       });
 	    Reveal.addEventListener( 'slidechanged', function( event ) {
