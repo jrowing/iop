@@ -6,7 +6,7 @@ navigation: 10
 
 # Required practicalals
 
-The following pages are relevent to required practicals:
+The following pages are relevent to required practicals for the EDUQAS A-level Scheme of work:
 
 # General guides
 * [General guide](http://jrowing.com/classes/reqprac/generalguidance)
