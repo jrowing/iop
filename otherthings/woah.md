@@ -4,6 +4,7 @@ title: Woah
 ---
 <section data-markdown data-notes="^Note:">
 # Woah!
+  $$F=ma$$
 </section>
 
 <section>
@@ -205,7 +206,8 @@ https://www.youtube.com/watch?v=2di7l-6OKNE&
 <section>
 <section data-markdown data-notes="^Note:">
 # Vortex cannon
-
+</section>
+<section data-markdown data-notes="^Note:">
 ![](http://www.sciencefriday.com/wp-content/uploads/2016/03/Vortex-formation-with-arrows-1.jpg)
 
 </section>
