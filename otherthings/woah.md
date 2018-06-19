@@ -71,10 +71,12 @@ https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
 
 </section>
 
+<section>
 <section data-markdown data-notes="^Note:">
 # Fidget Spinners
 
-
+</section>
+  <section data-markdown data-notes="^Note:">
 ![](https://lh3.googleusercontent.com/fMIY5Utz-VfusO4m8-w2d0y_juVsV9_iyMhQ3OqEB5mjLwJiC3lg6oiCY-U7rPdjOLYi9-EEqJ6HJNDuNDOMESlxy97y92_kR8t4Me7Pgfw0i66b4G7HRjyVDDVg2Xdqfj_w-d7aJOw8_w-E4xNCft6uCEqYRfSgTY3hxOm4pquibf21L26-eL95MDq_OHTeqA4NDcsJ5cHKVZqILiMWZsDCnKQGANJ_V3P6TrseubLIaBpjxttWnp_hm7pfzkv5dASv3cQjtQzR1OWK2xPdDztBucvY73qhjsoFH2MZD3liTf71zEAJ0bGJlJdkYSKhk5_LRSfWK0_Zytn7UQ4O1MjryFXlrwdWwAdZmQX2Diyw0NIW-cIVJSh3Qd247XfbNVOlzJh8AZzYCRLSxV7c1g94OeHqEqC-7UeWJpH356lLYuBUu7Fmxi6aYEsHpCUSpfAoJfXuFKqydob0yXRdCQpB6N6jesj-vLMsfWTY8gLe74l4BY4_na0IpKaHiMDC2BNqv2-unubc9f0JGMVWvXUW0U94JSPP0rqDMiSHm1zNOj0qUDkFkU_GF14rZN7ZFeYvnX3R9gxhEIER9jdeWzcvkCfxQn2czBvSFiAJdFhXY18BKfmA=w429-h761-no)
 </section>
 
@@ -95,7 +97,7 @@ https://www.youtube.com/watch?v=B8E5N9oBcLk&
 
 
 </section>
-
+</section>
 <section data-markdown data-notes="^Note:">
 # Slinky
 
