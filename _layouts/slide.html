@@ -73,6 +73,7 @@
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+	      
         controls: true,
         progress: true,
         history: true,
@@ -92,6 +93,9 @@
           { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true }
         ]
       });
+	    Reveal.addEventListener( 'slidechanged', function( event ) {
+    MathJax.Hub.Rerender(event.currentSlide);
+});
     </script>
 
   </body>
