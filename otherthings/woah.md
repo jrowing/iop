@@ -3,7 +3,10 @@ layout: slide
 title: Woah
 ---
 <section data-markdown data-notes="^Note:"># Woah!
+ </section>
+ <section data-markdown data-notes="^Note:">
 ![](https://filedb.experts-exchange.com/incoming/2015/11_w46/1008861/macbook-air-balloon.jpg)
+Note: this is a test
 </section>
 
 <section data-markdown data-notes="^Note:">
