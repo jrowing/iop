@@ -5,7 +5,7 @@ title: Woah
 <section data-markdown data-notes="^Note:">
 # Woah!
 </section>
-
+<section>
 <section data-markdown data-notes="^Note:">
 ![](https://filedb.experts-exchange.com/incoming/2015/11_w46/1008861/macbook-air-balloon.jpg)
 Note: this is a test
@@ -19,19 +19,22 @@ Note: this is a test
 <section data-markdown data-notes="^Note:">
   ![](http://i.imgur.com/y7EOXme.jpg)
 </section>
+</section>
 
 <section>
 <section data-markdown data-notes="^Note:">
 # What Happens Next:
+</section>
+<section data-markdown data-notes="^Note:">
 https://www.youtube.com/watch?v=5ZnKIPfIhAQ&
 </section>
 
 <section data-markdown data-notes="^Note:">
-
 [https://youtu.be/5ZnKIPfIhAQ](https://youtu.be/5ZnKIPfIhAQ)
 
 </section>
 </section>
+
 <section>
 <section data-markdown data-notes="^Note:">
 
