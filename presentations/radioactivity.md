@@ -51,7 +51,14 @@ The students had all previously studied the topic of radioactivity.
  
  <section data-markdown data-notes="^Note:">
  
-In a demonstration experiment, a teacher places a Geiger counter near a radioactive source. The counter counts quite rapidly. The teacher then moves the Geiger Counter away from the source. As she does this, the count rate gradually goes down. By the time she has moved the counter right across the room, the Geiger counter has almost stopped recording any counts.                  								 
+In a demonstration experiment, a teacher places a Geiger counter near a radioactive source. 
+
+The counter counts quite rapidly. 
+
+The teacher then moves the Geiger Counter away from the source. 
+
+As she does this, the count rate gradually goes down. By the time she has moved the counter right across the room, the Geiger counter has almost stopped recording any counts.      
+
 Explain why the Geiger counter counts less and less as it is moved away from the source.
 </section>
  
@@ -63,7 +70,11 @@ Explain why the Geiger counter counts less and less as it is moved away from the
  </section>
  
  <section data-markdown data-notes="^Note:">
- In April 1986, a serious accident occurred at the nuclear power station at Chernobyl in Russia. A week later, radiation detectors (Geiger counters) in Britain recorded higher  than usual levels of radiation. Britain is more than 1000 miles from Chernobyl!       	         								 Explain what reached the Geiger counters in Britain to make them record extra counts.
+ In April 1986, a serious accident occurred at the nuclear power station at Chernobyl in Russia. 
+ 
+ A week later, radiation detectors (Geiger counters) in Britain recorded higher  than usual levels of radiation. Britain is more than 1000 miles from Chernobyl!
+ 
+ Explain what reached the Geiger counters in Britain to make them record extra counts.
  </section>
  <section data-markdown data-notes="^Note:">
 # Answers
@@ -78,7 +89,10 @@ Many students confuse ‘radiation’ and ‘radioactive material’.
 After the Chernobyl accident, many newspaper articles referred to a “cloud of radiation” and drinking water contaminated with “radiation”.
 </section>
  <section data-markdown data-notes="^Note:">
-Many students appear to interpret the idea that “radiation is absorbed” differently from the scientific interpretation. They believe that objects that have been irradiated will themselves become radioactive – that they can re-emit the radiation some time later. 
+Many students appear to interpret the idea that “radiation is absorbed” differently from the scientific interpretation. 
+ 
+ They believe that objects that have been irradiated will themselves become radioactive – that they can re-emit the radiation some time later. 
+ 
 The underlying idea here is that they seem to think that radiation is somehow “conserved”. This is, of course, what we mean by ‘absorbed’ in everyday language. For example, when we say that a sponge has absorbed water, we assume that it can re-emit it at a later date.
 
 </section>
@@ -271,8 +285,11 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
 <section data-markdown data-notes="^Note:">
 
 Stable nuclei need the right proportion of neutrons and protons.
+
 Some nuclei (e.g. 4He) are particularly stable – why alpha particles are commonly emitted.
-After a or b decay nucleus may be in an excited (high energy) state and emit a $ \gamma $ ray photon.
+
+After $ \alpha $ or $ \beta $ decay nucleus may be in an excited (high energy) state and emit a $ \gamma $ ray photon.
+
 </section>
 </section>
 <section>
