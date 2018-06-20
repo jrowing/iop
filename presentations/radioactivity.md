@@ -10,12 +10,11 @@ Note: Welcome
 </section>
 
 <section data-background-iframe="http://supportingphysicsteaching.net/RaHome.html">
-</iframe>
+
 </section>
 
 
 <section data-background-iframe="http://www.stimulatingphysics.org/summer-schools.html">
-</iframe>
 </section>
 
 <section data-markdown data-notes="^Note:">
@@ -127,7 +126,6 @@ The Radiation Protection Division of the Health Protection Agency defines a radi
  </section>
 
 <section data-background-iframe="https://xkcd.com/radiation/">
-</iframe>
 </section>
  
  </section>
@@ -153,14 +151,11 @@ Many know that Madame Curie’s work led to her untimely demise, but few know th
 Currently, her notebook is so radioactive that it must be stored in a lead box. To be able to view her personal belongings, you need protective clothing and a liability waiver.
  </section>
 <section data-background-iframe="http://www.radonmine.com/">
-</iframe>
 </section>
 
 <section data-background-iframe="https://www.theatlantic.com/health/archive/2013/11/inside-a-radioactive-health-mine/281265/http://www.radonmine.com/">
-</iframe>
 </section>
 <section data-background-iframe="http://historiesofthingstocome.blogspot.com/2011/04/nuclear-culture-1-healthy-radiation.html">
-</iframe>
 </section>
  </section>
 
@@ -170,7 +165,6 @@ Currently, her notebook is so radioactive that it must be stored in a lead box. 
  </section>
  
 <section data-background-iframe="http://www.iop.org/education/teacher/resources/radioactivity/page_41562.html">
-</iframe>
 </section>
 
  <section data-markdown data-notes="^Note:">
@@ -202,7 +196,6 @@ Spend time distinguishing between irradiation and contamination.
  </section>
  
  <section data-background-iframe="http://www.bbc.co.uk/staticarchive/297db7543d9bf4f4bef75de80eb0f2816d3c05b5.gif">
-</iframe>
 </section>
  
   <section data-markdown data-notes="^Note:">
@@ -266,5 +259,4 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  </section>
  
  <section data-background-iframe="https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html">
-</iframe>
 </section>
