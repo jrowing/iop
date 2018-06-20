@@ -112,6 +112,10 @@ The underlying idea here is that they seem to think that radiation is somehow â€
 | Radioactive     | An adjective for anything that emits radiation*                                                           |
 | Radiation       | The particles and photons emitted by unstable nuclei (alpha, beta, gamma)                                 |
 | Contamination   | When the radioactive material gets inside something (like you) or on skin                                 |
+
+</section>
+<section data-markdown data-notes="^Note:">
+
 | Irradiation     | When the radioactive material is outside and the radiation it produces hits something                     |
 | Activity        | Number of emission per second in Becquerels (Bq)                                                          |
 | Dose equivalent | Energy per kilogram allowing for the type of radiation and the tissue that it hits in milliSieverts (mSv) |
@@ -148,7 +152,9 @@ The Radiation Protection Division of the Health Protection Agency defines a radi
  <section data-markdown data-notes="^Note:">
 Many know that Madame Curieâ€™s work led to her untimely demise, but few know the lasting effects that the radiation exposure has had on her belongings. 
  
-Currently, her notebook is so radioactive that it must be stored in a lead box. To be able to view her personal belongings, you need protective clothing and a liability waiver.
+Currently, her notebook is so radioactive that it must be stored in a lead box.
+
+To be able to view her personal belongings, you need protective clothing and a liability waiver.
  </section>
 <section data-background-iframe="http://www.radonmine.com/">
 </section>
@@ -168,15 +174,13 @@ Currently, her notebook is so radioactive that it must be stored in a lead box. 
 </section>
 
  <section data-markdown data-notes="^Note:">
-## Do macroscopic stuff first 
  
-Establish a general model of radiation phenomenaSource -----radiation----- detector
-
-Deal with the idea of absorption more directly and more fully than usual
-
-Spend time distinguishing between irradiation and contamination. 
-
-## Do microscopic last
+* Do macroscopic stuff first 
+ * Establish a general model of radiation phenomena
+ * Source -----radiation----- detector
+ * Deal with the idea of absorption more directly and more fully than usual
+ * Spend time distinguishing between irradiation and contamination. 
+* Do microscopic last
  </section>
  </section>
  <section>
