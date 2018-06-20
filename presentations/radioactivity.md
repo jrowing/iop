@@ -2,9 +2,6 @@
 layout: slide
 title: Radioactivity
 ---
-Reveal.initialize({
-	transition: 'concave', // none/fade/slide/convex/concave/zoom 
- });
  
  
 <section data-markdown data-notes="^Note:">
