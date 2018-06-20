@@ -237,7 +237,7 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  
   <section data-markdown data-notes="^Note:">
  # Gamma
-* Symbol –  \gamma 
+* Symbol –  $ \gamma $
 * Range in air – inverse square law
 * Stopped (mostly) by thick lead
 * Not affected by magnetic field
