@@ -117,6 +117,7 @@ The underlying idea here is that they seem to think that radiation is somehow �
 <section data-markdown data-notes="^Note:">
 
 | Irradiation     | When the radioactive material is outside and the radiation it produces hits something                     |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
 | Activity        | Number of emission per second in Becquerels (Bq)                                                          |
 | Dose equivalent | Energy per kilogram allowing for the type of radiation and the tissue that it hits in milliSieverts (mSv) |
 | Dose            | Energy per kilogram in Grays (Gy)                                                                         |
@@ -236,7 +237,7 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  
   <section data-markdown data-notes="^Note:">
  # Gamma
-* Symbol – $ \gamma $
+* Symbol –  \gamma 
 * Range in air – inverse square law
 * Stopped (mostly) by thick lead
 * Not affected by magnetic field
