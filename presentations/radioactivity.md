@@ -62,6 +62,7 @@ Explain why the Geiger counter counts less and less as it is moved away from the
 * Radiation causes ionisation of the air.
 * Intensity (count rate) decreases with distance.
  </section>
+ 
  <section data-markdown data-notes="^Note:">
  In April 1986, a serious accident occurred at the nuclear power station at Chernobyl in Russia. A week later, radiation detectors (Geiger counters) in Britain recorded higher  than usual levels of radiation. Britain is more than 1000 miles from Chernobyl!       	         								 Explain what reached the Geiger counters in Britain to make them record extra counts.
  </section>
@@ -71,8 +72,9 @@ Explain why the Geiger counter counts less and less as it is moved away from the
 * Radioactive material was transferred by the wind.
 * Radioactive material emits radiation.
  </section>
- <section data-markdown data-notes="^Note:">
-
+ 
+ 
+<section data-markdown data-notes="^Note:">
 Many students confuse ‘radiation’ and ‘radioactive material’. 
 After the Chernobyl accident, many newspaper articles referred to a “cloud of radiation” and drinking water contaminated with “radiation”.
 </section>
@@ -108,7 +110,7 @@ The underlying idea here is that they seem to think that radiation is somehow �
  </section>
   <section data-markdown data-notes="^Note:">
 
- | Radioactivity   | The title (and that’s the only time to use it)                                                            |
+| Radioactivity   | The title (and that’s the only time to use it)                                                            |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | Radioactive     | An adjective for anything that emits radiation*                                                           |
 | Radiation       | The particles and photons emitted by unstable nuclei (alpha, beta, gamma)                                 |
@@ -116,7 +118,8 @@ The underlying idea here is that they seem to think that radiation is somehow �
 | Irradiation     | When the radioactive material is outside and the radiation it produces hits something                     |
 | Activity        | Number of emission per second in Becquerels (Bq)                                                          |
 | Dose equivalent | Energy per kilogram allowing for the type of radiation and the tissue that it hits in milliSieverts (mSv) |
-| Dose            | Energy per kilogram in Grays (Gy)        |
+| Dose            | Energy per kilogram in Grays (Gy)                                                                         |
+
  </section>
 
 <section data-markdown data-notes="^Note:">
