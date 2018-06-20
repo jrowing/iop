@@ -9,9 +9,7 @@ title: Radioactivity
 Note: Welcome
 </section>
 
-<section data-markdown data-notes="^Note:">
-<iframe width="600" height="400" marginheight="0" marginwidth="0" src="http://supportingphysicsteaching.net/RaHome.html">
-Your browser does not support iframes.
+<section data-background-iframe="http://supportingphysicsteaching.net/RaHome.html">
 </iframe>
 </section>
 
