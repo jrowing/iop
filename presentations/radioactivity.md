@@ -265,3 +265,53 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  
  <section data-background-iframe="https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html">
 </section>
+
+<section data-markdown data-notes="^Note:">
+
+Stable nuclei need the right proportion of neutrons and protons.
+Some nuclei (e.g. 4He) are particularly stable – why alpha particles are commonly emitted.
+After a or b decay nucleus may be in an excited (high energy) state and emit a $ \gamma $ ray photon.
+</section>
+</section>
+<section>
+ <section data-markdown data-notes="^Note:">
+# Models of radioactive decay
+ </section>
+  <section data-markdown data-notes="^Note:">
+* Dice
+* M&Ms
+* Popcorn…
+ </section>
+
+<section data-background-iframe="http://jrowing.com/classes/reqprac/decay">
+</section>
+</section>
+<section>
+  <section data-markdown data-notes="^Note:">
+   # Half Life
+ </section>
+ 
+  <section data-markdown data-notes="^Note:">
+ 
+ $$ A = A_{0} e^{- \lambda t} $$
+ </section>
+ </section>
+ 
+ <section>
+ <section data-markdown data-notes="^Note:">
+  # Uses
+ </section>
+ 
+ <section data-markdown data-notes="^Note:">
+| Medical      | Other                   |
+|--------------|-------------------------|
+| Radiotherapy | Smoke alarms            |
+| Tracers      | Measuring thickness     |
+| PET scans    | Finding cracks in pipes |
+|              | Dating                  |
+
+</section>
+</section>
+
+ 
+ 
