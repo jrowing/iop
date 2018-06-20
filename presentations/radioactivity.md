@@ -10,13 +10,11 @@ Note: Welcome
 </section>
 
 <section data-background-iframe="http://supportingphysicsteaching.net/RaHome.html">
- Your browser does not support iframes.
 </iframe>
 </section>
 
 
 <section data-background-iframe="http://www.stimulatingphysics.org/summer-schools.html">
-Your browser does not support iframes.
 </iframe>
 </section>
 
@@ -129,7 +127,6 @@ The Radiation Protection Division of the Health Protection Agency defines a radi
  </section>
 
 <section data-background-iframe="https://xkcd.com/radiation/">
- Your browser does not support iframes.
 </iframe>
 </section>
  
@@ -139,26 +136,30 @@ The Radiation Protection Division of the Health Protection Agency defines a radi
   # Stories to engage
  </section>
   <section data-markdown data-notes="^Note:">
- 1841- Eugene Peligot discovers uranium
+1841- Eugene Peligot discovers uranium
+   
 1895 – William Roentgen discovers X-rays
+
 1896 – Henri Becquerel discovers that rocks that contain uranium emit radiation
+
 1988/9 – Marie Curie discovers radium, polonium and thorium
+
 1903 – Becquerel, and the Curies get Nobel Prize
  </section>
+ 
  <section data-markdown data-notes="^Note:">
-  Many know that Madame Curie’s work led to her untimely demise, but few know the lasting effects that the radiation exposure has had on her belongings. Currently, her notebook is so radioactive that it must be stored in a lead box. To be able to view her personal belongings, you need protective clothing and a liability waiver.
+Many know that Madame Curie’s work led to her untimely demise, but few know the lasting effects that the radiation exposure has had on her belongings. 
+ 
+Currently, her notebook is so radioactive that it must be stored in a lead box. To be able to view her personal belongings, you need protective clothing and a liability waiver.
  </section>
 <section data-background-iframe="http://www.radonmine.com/">
- Your browser does not support iframes.
 </iframe>
 </section>
 
 <section data-background-iframe="https://www.theatlantic.com/health/archive/2013/11/inside-a-radioactive-health-mine/281265/http://www.radonmine.com/">
- Your browser does not support iframes.
 </iframe>
 </section>
 <section data-background-iframe="http://historiesofthingstocome.blogspot.com/2011/04/nuclear-culture-1-healthy-radiation.html">
- Your browser does not support iframes.
 </iframe>
 </section>
  </section>
@@ -169,19 +170,23 @@ The Radiation Protection Division of the Health Protection Agency defines a radi
  </section>
  
 <section data-background-iframe="http://www.iop.org/education/teacher/resources/radioactivity/page_41562.html">
- Your browser does not support iframes.
 </iframe>
 </section>
 
  <section data-markdown data-notes="^Note:">
 ## Do macroscopic stuff first 
+ 
 Establish a general model of radiation phenomenaSource -----radiation----- detector
+
 Deal with the idea of absorption more directly and more fully than usual
+
 Spend time distinguishing between irradiation and contamination. 
+
 ## Do microscopic last
  </section>
  </section>
  <section>
+ 
   <section data-markdown data-notes="^Note:">
   # Teaching Ideas
  </section>
@@ -197,13 +202,13 @@ Spend time distinguishing between irradiation and contamination.
  </section>
  
  <section data-background-iframe="http://www.bbc.co.uk/staticarchive/297db7543d9bf4f4bef75de80eb0f2816d3c05b5.gif">
- Your browser does not support iframes.
 </iframe>
 </section>
  
   <section data-markdown data-notes="^Note:">
   # You are radioactive:
  Typically 7000 Bq. So “it’s dangerous to sleep with somebody”! However, most of the resulting radiation is absorbed within the ‘owners’ body.
+ 
 Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (threshold is 400Bq/kg) 
 
  </section>
@@ -215,7 +220,7 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  
   <section data-markdown data-notes="^Note:">
   # Alpha
- * Symbol - $ \alpha$
+* Symbol - $ \alpha$
 * Range in air – few cm
 * Stopped by paper
 * Needs very strong magnetic field to deflect
@@ -261,6 +266,5 @@ Mass of typical student = 70 kg, so specific activity = 7000/70 = 100 Bq/kg (thr
  </section>
  
  <section data-background-iframe="https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html">
- Your browser does not support iframes.
 </iframe>
 </section>
