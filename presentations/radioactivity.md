@@ -38,11 +38,12 @@ Your browser does not support iframes.
 * Radioactive means giving off radio-waves.
 * Saying that a radioactive substance has a half life of three days means any produced now will all be gone in six days
 </section>
+
 <section>
 <section data-markdown data-notes="^Note:">
  # What Do students think
  </section>
- </section>
+ 
  
  <section data-markdown data-notes="^Note:">
 The following questions were given to 144 school students aged 15–16 years and drawn from four schools. 
@@ -67,7 +68,7 @@ Explain why the Geiger counter counts less and less as it is moved away from the
 * Radioactive material was transferred by the wind.
 * Radioactive material emits radiation.
  </section>
-
+</section>
 
 
 
