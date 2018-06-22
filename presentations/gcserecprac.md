@@ -23,6 +23,14 @@ title: GCSE Required Practicals
 
 <section data-background-iframe="http://www.stimulatingphysics.org/summer-schools.html">
 </section>
+<section data-background-iframe="http://supportingphysicsteaching.net">
+</section>
+<section data-background-iframe="http://www.plickers.com">
+A time and/or ability of students
+B getting experiments to work
+C making experiments interesting
+D getting valuable learning outcomes 
+</section>
 
 <section data-markdown data-notes="^Note:">
 # Aims
@@ -138,4 +146,7 @@ This written statement will confirm that each learner:
 
 </section>
  
- 
+  <section data-markdown data-notes="^Note:">
+# Language of practicals 
+![](presentations/images/equality.png)
+</section>
