@@ -7,8 +7,8 @@ title: GCSE Required Practicals
 <section data-markdown data-notes="^Note:">
 # Radioactivity
 
-![](http://jrowing.com/iop/presentations/images/spn.jpg){:height="50%" width="50%"} 
-![](http://jrowing.com/iop/presentations/images/emsnew.PNG){:height="50%" width="50%"}
+![](http://jrowing.com/iop/presentations/images/spn.jpgv=4&s=200)
+![](http://jrowing.com/iop/presentations/images/emsnew.PNGv=4&s=200)
 Note: Welcome
 </section>
 
@@ -37,23 +37,19 @@ Note: Welcome
 <section data-markdown data-notes="^Note:">
  # Assessment
 * assessed across the papers at each level of demand using our full range of question types.
-* The practical skills are also assessed across all three of the Assessment Objectives (AOs).
 *  In exam papers a question is made up of items, which means that any question will often cover more than one AO and will assess both
 content as well as practical skills and maths skills. 
- * For this reason you will see that there are few questions that focus solely on RPs, rather, whole questions assess a number of different aspects.
 * There is no one correct method to achieve the learning – suggested methods can be found in the practical handbooks.
 </section>
 
 <section data-markdown data-notes="^Note:">
-Schools and colleges will be required to provide students with a reasonable
-opportunity to do the RP activities.
+Schools and colleges will be required to provide students with a reasonable opportunity to do the RP activities.
 * Awarding organisations must require each school or college to sign a practical science statement declaration form.
 * This written statement will confirm that the school or college has taken reasonable steps to secure that each learner:
  * has completed the practical activities set by the awarding organisation
  * has made a contemporaneous record of:
  * the work which the student has undertaken during those practical activities
 * the knowledge, skills and understanding which the student has derived from those practical activities.
-* Ofqual have said failing to provide this declaration will be considered as malpractice.
 </section>
 
 <section data-markdown data-notes="^Note:">
