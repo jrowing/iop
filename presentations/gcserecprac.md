@@ -146,8 +146,39 @@ This written statement will confirm that each learner:
 </section>
 
 </section>
- 
+ <section>
   <section data-markdown data-notes="^Note:">
 # Language of practicals 
-![](http://jrowing.com/presentations/images/equality.png)
+![](http://jrowing.com/iop/presentations/images/equality.png)
 </section>
+   <section data-markdown data-notes="^Note:">
+ Prepare a group mindmap:
+* Inclusive contexts/examples
+ * Icebreaker
+ * Extension task
+* Careers/scientists
+* Links with related topics
+ * Embedding the practical in SofW
+ </section>
+   <section data-markdown data-notes="^Note:">
+# Use discussion and groupwork
+ </section>
+<section>
+<section data-markdown data-notes="^Note:">
+# The Hook
+ </section>
+    <section data-markdown data-notes="^Note:">
+The old £1 coin was replaced because it was too easy to fake.  The new coin is a different size and made from two different alloys. 
+Think-pair-share
+How can vending machines check £1 coins are genuine? 
+</section>
+    <section data-markdown data-notes="^Note:">
+Bungee jumpers jump off tall structures. A long elastic cord attached to their ankles means they fall safely.
+Think-pair-share
+What could bungee jump operators plan and check before each jump to be sure no-one comes to harm?
+</section>
+    <section data-markdown data-notes="^Note:">
+     # Extra information 
+     ## Results from practical
+     ## Calculations
+     <\section>
