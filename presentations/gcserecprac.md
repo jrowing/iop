@@ -4,12 +4,11 @@ title: GCSE Required Practicals
 ---
  
  
-<section data-markdown data-notes="^Note:">
-# GCSE Required Practicals
+<section>
+ <h1>GCSE Required Practicals</h1>
 
 <img src="http://jrowing.com/iop/presentations/images/spn.jpg" width="400"><img src="http://jrowing.com/iop/presentations/images/emsnew.PNG" width="400">
 
-Note: Welcome
 </section>
 
 <section data-background-iframe="http://supportingphysicsteaching.net">
