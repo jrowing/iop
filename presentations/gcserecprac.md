@@ -198,4 +198,4 @@ What could bungee jump operators plan and check before each jump to be sure no-o
      # Extra information 
      ## Results from practical
      ## Calculations
-     <\section>
+    </section>
