@@ -73,12 +73,67 @@ This written statement will confirm that each learner:
   # What are they
  </section>
  <section data-markdown data-notes="^Note:">
+# Heat Capacity 
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
-| 1.	Heat Capacity: Mass, time (energy = power x time)- power from the heater, temperature change |4. Investigations: a determine the specific heat capacity of materials including water and some solids             |   Investigation of the specific heat capacity of different metals or water using electrical heaters and a joulemeter. (PAG P5), Measurement of the specific latent heat of vaporisation of water. (PAG P5), Measurement of the specific latent heat of stearic acid. (PAG P5), Investigation of rate of cooling with insulated and non-insulated copper cans. (PAG P5)
-  |
+| Yes | Yes | Loads |
+</section>
+ 
+  <section data-markdown data-notes="^Note:">
+# Thermal insulation
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | No | No |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Resistance
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| No | No | Loads |
+</section>
 
+ <section data-markdown data-notes="^Note:">
+# V-I Graphs
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | Loads |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Density 
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | Loads |
+</section>
 
+ <section data-markdown data-notes="^Note:">
+# Hooke's Law 
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | Loads |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Newton's 2nd law
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | Loads |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Waves - Ripple tank 
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | Loads |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Thermal Radiation
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | Yes | No |
+</section>
+ <section data-markdown data-notes="^Note:">
+# Refraction 
+| AQA          | EDXCEL                  | OCR |
+|--------------|-------------------------|   |
+| Yes | No | No |
 </section>
 
 </section>
