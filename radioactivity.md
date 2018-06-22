@@ -4,7 +4,7 @@ title: Radioactivity
 navigation: 5
 ---
 
-# Woah
+# Radioactivity
 
 [This presentation](http://jrowing.com/iop/presentations/radioactivity#/) is for the IoP sessions I am doing this year. Preview below:
 
