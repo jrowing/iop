@@ -7,7 +7,7 @@ title: GCSE Required Practicals
 <section data-markdown data-notes="^Note:">
 # Radioactivity
 
-![](http://jrowing.com/iop/presentations/images/spn.jpg) ![](http://jrowing.com/iop/presentations/images/emsnew.PNG)
+![](http://jrowing.com/iop/presentations/images/spn.jpg| width=200) ![](http://jrowing.com/iop/presentations/images/emsnew.PNG| width=200)
 Note: Welcome
 </section>
 
