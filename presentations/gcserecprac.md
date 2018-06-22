@@ -8,7 +8,8 @@ title: GCSE Required Practicals
 # GCSE Required Practicals
 
 <img src="http://jrowing.com/iop/presentations/images/spn.jpg" width="400">
-<img src="http://jrowing.com/iop/presentations/images/emsnew.PNG?" width="400">
+<img src="http://jrowing.com/iop/presentations/images/emsnew.PNG" width="400">
+
 Note: Welcome
 </section>
 
