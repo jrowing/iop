@@ -49,7 +49,8 @@ title: GCSE Required Practicals
 <section data-markdown data-notes="^Note:">
 Schools and colleges will be required to provide students with:
 * A reasonable opportunity to do the RP activities.
- <\section>
+
+<\section>
   
 <section data-markdown data-notes="^Note:">
 Awarding organisations must require each school or college to sign a practical science statement declaration form.
