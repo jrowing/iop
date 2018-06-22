@@ -7,7 +7,7 @@ title: GCSE Required Practicals
 <section>
  <h1>GCSE Required Practicals</h1>
 
-<img src="http://jrowing.com/iop/presentations/images/spn.jpg" width="400" position: absolute; bottom: 0px; left: 0px;> <img src="http://jrowing.com/iop/presentations/images/emsnew.PNG" width="270" position: absolute; bottom: 0px; right: 0px;>
+<img src="http://jrowing.com/iop/presentations/images/spn.jpg" width="400" style="position: absolute; bottom: 0px; left: 0px;"> <img src="http://jrowing.com/iop/presentations/images/emsnew.PNG" width="270" style="position: absolute; bottom: 0px; right: 0px;">
 
 </section>
 
