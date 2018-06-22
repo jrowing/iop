@@ -27,10 +27,10 @@ title: GCSE Required Practicals
 <section data-background-iframe="http://www.plickers.com">
  </section>
  <section data-markdown data-notes="^Note:">
-A time and/or ability of students
-B getting experiments to work
-C making experiments interesting
-D getting valuable learning outcomes 
+A. time and/or ability of students
+B. getting experiments to work
+C. making experiments interesting
+D. getting valuable learning outcomes 
 </section>
 
 <section data-markdown data-notes="^Note:">
