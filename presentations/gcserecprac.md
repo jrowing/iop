@@ -7,12 +7,12 @@ title: GCSE Required Practicals
 <section data-markdown data-notes="^Note:">
 # Radioactivity
 
-![](http://jrowing.com/iop/presentations/images/spn.jpg =200x) ![](http://jrowing.com/iop/presentations/images/emsnew.PNG =200x)
+![](http://jrowing.com/iop/presentations/images/spn.jpg){:height="50%" width="50%"} 
+![](http://jrowing.com/iop/presentations/images/emsnew.PNG){:height="50%" width="50%"}
 Note: Welcome
 </section>
 
 <section data-background-iframe="http://supportingphysicsteaching.net">
-
 </section>
 
 
@@ -33,6 +33,7 @@ Note: Welcome
 * 15% of the marks on each award will cover different aspects of practical work through the RPs.
 * Working scientifically (WS) is assessed.
 </section>
+
 <section data-markdown data-notes="^Note:">
  # Assessment
 * assessed across the papers at each level of demand using our full range of question types.
@@ -42,8 +43,8 @@ content as well as practical skills and maths skills.
  * For this reason you will see that there are few questions that focus solely on RPs, rather, whole questions assess a number of different aspects.
 * There is no one correct method to achieve the learning – suggested methods can be found in the practical handbooks.
 </section>
-<section data-markdown data-notes="^Note:">
 
+<section data-markdown data-notes="^Note:">
 Schools and colleges will be required to provide students with a reasonable
 opportunity to do the RP activities.
 * Awarding organisations must require each school or college to sign a practical science statement declaration form.
@@ -54,6 +55,7 @@ opportunity to do the RP activities.
 * the knowledge, skills and understanding which the student has derived from those practical activities.
 * Ofqual have said failing to provide this declaration will be considered as malpractice.
 </section>
+
 <section data-markdown data-notes="^Note:">
 Agree with your head of school what they will require to see to ensure they are able to sign the declaration form.
 * No requirement to keep records of individual students attendance or competence in each required practical.
@@ -71,7 +73,6 @@ Agree with your head of school what they will require to see to ensure they are 
 | PET scans    | Finding cracks in pipes |
 |              | Dating                  |
 
-</section>
 </section>
 
  
