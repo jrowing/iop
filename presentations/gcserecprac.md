@@ -192,7 +192,6 @@ What could bungee jump operators plan and check before each jump to be sure no-o
 </section>
 
 </section>
-<section>
 <section data-markdown data-notes="^Note:">
 # In summary:
 * Hook
@@ -201,6 +200,8 @@ What could bungee jump operators plan and check before each jump to be sure no-o
  * Results from practical
  * Calculations
 * Meaningful discussion
+</section>
+
 <section>
     <section data-markdown data-notes="^Note:">
      # Lets play
