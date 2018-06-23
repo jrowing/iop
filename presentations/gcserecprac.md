@@ -152,21 +152,17 @@ This written statement will confirm that each learner:
 ![](http://jrowing.com/iop/presentations/images/equality.png)
 </section>
    <section data-markdown data-notes="^Note:">
-    
- Prepare a group mindmap:
-* Inclusive contexts/examples
- * Icebreaker
- * Extension task
-* Careers/scientists
-* Links with related topics
- * Embedding the practical in SofW
- </section>
- 
-   <section data-markdown data-notes="^Note:">
- 
-# Use discussion and groupwork
- </section>
+
+ "The aim of physics in studying natural phenomena is to develop explanations based on
+empirical evidence..."
+
 </section>
+
+   <section data-markdown data-notes="^Note:">
+## Simplify language
+## Use discussion and groupwork
+ </section>
+ </section>
 <section>
 <section data-markdown data-notes="^Note:">
 # The Hook
@@ -194,8 +190,27 @@ A long elastic cord attached to their ankles means they fall safely.
 
 What could bungee jump operators plan and check before each jump to be sure no-one comes to harm?
 </section>
+
+</section>
+<section>
+<section data-markdown data-notes="^Note:">
+# In summary:
+* Hook
+* Low language barrier
+* Extra information 
+ * Results from practical
+ * Calculations
+* Meaningful discussion
+<section>
     <section data-markdown data-notes="^Note:">
-     # Extra information 
-     ## Results from practical
-     ## Calculations
+     # Lets play
+	 </section>
+ Prepare a group mindmap:
+* Inclusive contexts/examples
+ * Icebreaker
+ * Extension task
+* Relevance
+ * Careers/scientists
+ * Links with related topics
+ * Embedding the practical in SofW
     </section>
