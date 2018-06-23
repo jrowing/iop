@@ -203,9 +203,11 @@ What could bungee jump operators plan and check before each jump to be sure no-o
 </section>
 
 <section>
-    <section data-markdown data-notes="^Note:">
+ <section data-markdown data-notes="^Note:">
      # Lets play
 	 </section>
+	 
+	 <section data-markdown data-notes="^Note:">
  Prepare a group mindmap:
 * Inclusive contexts/examples
  * Icebreaker
@@ -215,3 +217,4 @@ What could bungee jump operators plan and check before each jump to be sure no-o
  * Links with related topics
  * Embedding the practical in SofW
     </section>
+</section>
