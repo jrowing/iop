@@ -34,10 +34,11 @@ title: GCSE Required Practicals
 </section>
 
 <section data-markdown data-notes="^Note:">
-# Aims
-1. Student ideas/misunderstandings
-2. The language of practicals
-3. Have a play
+# Parts
+1. What and Why?
+2. A rant about the hangups
+3. The language of practicals
+4. Have a play
 </section>
 
 <section data-markdown data-notes="^Note:">
@@ -86,6 +87,8 @@ This written statement will confirm that each learner:
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - Heat & Energy!
 </section>
  
   <section data-markdown data-notes="^Note:">
@@ -93,12 +96,16 @@ This written statement will confirm that each learner:
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | No | No |
+
+Misconceptions - Heat vs Temperature
 </section>
  <section data-markdown data-notes="^Note:">
 # Resistance
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | No | No | Loads |
+
+Misconceptions - Cause of Resistance, basic model
 </section>
 
  <section data-markdown data-notes="^Note:">
@@ -106,12 +113,16 @@ This written statement will confirm that each learner:
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - Why the bulb has that curve...
 </section>
  <section data-markdown data-notes="^Note:">
 # Density 
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - Atom structure, Displacement
 </section>
 
  <section data-markdown data-notes="^Note:">
@@ -119,30 +130,40 @@ This written statement will confirm that each learner:
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - Plastic vs elastic vs Hookian .
 </section>
  <section data-markdown data-notes="^Note:">
 # Newton's 2nd law
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - ** Never ** done correctly 
 </section>
  <section data-markdown data-notes="^Note:">
 # Waves - Ripple tank 
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | Loads |
+
+Misconceptions - Wavefronts vs bright/dark
 </section>
  <section data-markdown data-notes="^Note:">
 # Thermal Radiation
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | Yes | No |
+
+Misconceptions - This isn't how the world works.
 </section>
  <section data-markdown data-notes="^Note:">
 # Refraction 
 | AQA          | EDXCEL                  | OCR |
 |--------------|-------------------------|   |
 | Yes | No | No |
+
+Misconceptions - Becomes procedural, no understanding
 </section>
 
 </section>
@@ -190,15 +211,22 @@ A long elastic cord attached to their ankles means they fall safely.
 
 What could bungee jump operators plan and check before each jump to be sure no-one comes to harm?
 </section>
-
+</section>
+<section>
+<section data-markdown data-notes="^Note:">
+# Now What
+ </section>
+<section data-markdown data-notes="^Note:">
+The calculations & discussion comes easily...
+</section>
 </section>
 <section data-markdown data-notes="^Note:">
 # In summary:
 * Hook
 * Low language barrier
 * Extra information 
- * Results from practical
- * Calculations
+* Results from practical
+* Calculations
 * Meaningful discussion
 </section>
 
@@ -210,11 +238,11 @@ What could bungee jump operators plan and check before each jump to be sure no-o
 	 <section data-markdown data-notes="^Note:">
  Prepare a group mindmap:
 * Inclusive contexts/examples
- * Icebreaker
- * Extension task
+* Icebreaker
+* Extension task
 * Relevance
- * Careers/scientists
- * Links with related topics
- * Embedding the practical in SofW
+* Careers/scientists
+* Links with related topics
+* Embedding the practical in SofW
     </section>
 </section>
